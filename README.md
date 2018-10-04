@@ -1,7 +1,9 @@
 ## The Need for GMO's 
 
-This is a test to see if the website will update as the paper is updated. :sunflower:
-
+### What are GMOs?
+```
+GMO stand for genetically modified organisms. These can range from animals to plants. 
+```
 
 You can use the [editor on GitHub](https://github.com/wdeaton/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
