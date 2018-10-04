@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Need for GMO's 
 
 You can use the [editor on GitHub](https://github.com/wdeaton/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
