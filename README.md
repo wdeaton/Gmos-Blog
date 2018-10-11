@@ -1,4 +1,4 @@
-## The Need for GMO's 
+## GMO's 
 
 ### What are GMOs?
 ```
