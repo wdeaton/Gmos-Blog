@@ -1,11 +1,16 @@
-## GMO's 
+## What are GMOs?
 ```
-### What are GMOs? ###
-The topic for this blog is going to be about the specifics of what GMOs are. Hopfully this clarifies what GMOs are, how they came about, how they are made, and a general history of them. 
+The topic for this blog is going to be about the specifics of what GMOs are. 
+Hopfully this clarifies what GMOs are, how they came about, how they are made, 
+and a general history of them. 
 
-GMO stand for genetically modified organisms. These can range from animals to plants. 
+To understand what GMOs are, one must know what GMO means. 
+GMO stands for genetically modified organisms.
 ```
-To begin, 
+For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals they had, then they mated them. This ideaology of choosing the best animals to mate was the forefront for genetic modifications. It allowed man to choose what genes were in thier animals. This method was the beginning of gene selection and the idea behind all  GMOs today. While poeple thousands of years ago used animals and time, today there is science and technology to genetially modify organisms. 
+
+
+
 ## Gmo's 
 1. First blog will be about GMO's sepcifically.
 - What they are. 
