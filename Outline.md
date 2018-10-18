@@ -1,4 +1,4 @@
-Gmo's
+## Gmo's ##
   1. First blog will be about GMO's sepcifically.
     a. What they are.
     b. How they came about. 
