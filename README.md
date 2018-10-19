@@ -9,7 +9,7 @@ GMO stands for genetically modified organisms.
 ```
 # Gmo History
 For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals and crops they had, then they used those specific organisms in mating. This ideology of choosing the best animals, or crops, to propagate was the forefront for genetic modifications. It allowed man to choose what genes were in their propagation. This method was the beginning of gene selection and the idea behind all GMOs today. While people thousands of years ago used crops, animals, and time, today science and technology genetically modify organisms. 
-
+![GmoCornPic](
 # The buildup of the GMOs we see today 
 Now you can trace genetically modified organisms back to the discovery of genes. Gregory Mendel began the first recorded genetic test of any kind back in the 1860s. Mendel is known for his discovery with peas. He found that by crossing different kinds of garden peas. Following Mendel were some other important times, and figures, in genetics. 
 - 1868 Friedrich Meisher discovered DNA, or deoxyribose nucleic acid. 
@@ -23,11 +23,10 @@ Now you can trace genetically modified organisms back to the discovery of genes.
 
 # Today
 Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog, I will discuss the science behind how they create GMOs. 
-```
-[Contact Information](https://github.com/wdeaton/Gmos-Blog/blob/master/Contact%20Information%20page.md) 
+
+[Contact Information](https://github.com/wdeaton/Gmos-Blog/blob/master/Contact%20Information%20page.md)
 
 [About](https://github.com/wdeaton/Gmos-Blog/blob/master/About%20Page.md).
 
 [References](https://github.com/wdeaton/Gmos-Blog/blob/master/References%20page.md)
-```
 ![Image](src)
