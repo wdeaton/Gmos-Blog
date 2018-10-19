@@ -7,20 +7,22 @@ and a general history of them.
 To understand what GMOs are, one must know what GMO means. 
 GMO stands for genetically modified organisms.
 ```
-For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals they had, then they mated them. This ideaology of choosing the best animals to mate was the forefront for genetic modifications. It allowed man to choose what genes were in thier animals. This method was the beginning of gene selection and the idea behind all  GMOs today. While poeple thousands of years ago used animals and time, today there is science and technology to genetially modify organisms. 
+# Gmo History
+For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals and crops they had, then they used those specific organisms in mating. This ideaology of choosing the best animals, or crops, to propogate was the forefront for genetic modifications. It allowed man to choose what genes were in thier propogation. This method was the beginning of gene selection and the idea behind all GMOs today. While poeple thousands of years ago used crops, animals, and time, today science and technology genetially modify organisms. 
 
+# The buildup of the GMOs we see today 
+Now you can trace genetically modified orgaism back to the discovery of genes. Gregory Mendel began the first recorded genetic test of any kind back in the 1860s. Mendel is known for his discovery with peas. He found that by crossing different kinds of garden peas. Following Mendel were some other important times, and figures, in genetics. 
+- 1868 Friedrich Meisher discovered DNA, or deoxyribose nucleic acid. 
+- 1944 Oswald Avery identified DNA as the carrier of molecular informaiton.
+- 1953 James Watson and Fracis Crick discovered DNA to be in a double helix.
+- 1972 Stanley Cohen and Herbert Boyer developed ways to splice DNA in specific sequences.
+- 1976 Universtiy of Washington discovered that plasmids could insert themselves into the nucleus of plant cells. 
+- 1983 scientists took out harmful genes from plasmids and indroduced desired genes into the nuclues. 
+- 1994 the first genetically modified organism, safe to eat, was available for the public. 
+- 2008 By 2008, 92% of soybeans in the US was GMO varieties and 80% of corn was GMO corn. 
 
-
-## Gmo's 
-1. First blog will be about GMO's sepcifically.
-- What they are. 
-- How they came about. 
-- Generally how they are made.
-- History of GMOs.
-
-```
-
-```
+# Today
+Today we can see 90% of the soy, cotton, canola, corn, and sugar beets procduced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog I will discuss the science behind how they create GMOs. 
 
 You can use the [editor on GitHub](https://github.com/wdeaton/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
