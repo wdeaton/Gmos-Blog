@@ -3,4 +3,6 @@
 
 [GMOs: Facts About Genetically Modified Food](https://www.livescience.com/40895-gmo-facts.html)
 
+[Kids Right to Know](http://www.kidsrighttoknow.com/gmos/)
+
 More to come
