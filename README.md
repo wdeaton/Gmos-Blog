@@ -12,7 +12,7 @@ For thousands of years GMOs were in the minds of mankind, they just did not know
 
 ![GmoCornPic](https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg)
 
-<img src="{{github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg}}/assets/img/.jpg">
+<img src="{{site.baseurl}}/img/https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg{{https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg}}">
 
 ![GmoCornPic](/https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg){:class="img-responsive"}
 
