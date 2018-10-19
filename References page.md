@@ -5,4 +5,4 @@
 
 [Kids Right to Know](http://www.kidsrighttoknow.com/gmos/) Picture reference
 
-More to come
+More to come as the blogs contiue
