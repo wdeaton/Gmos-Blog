@@ -12,7 +12,7 @@ For thousands of years GMOs were in the minds of mankind, they just did not know
 
 ![GmoCornPic](https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg)
 
-<img src="{{github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg}}/assets/img/my-image.jpg">
+<img src="{{github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg}}/assets/img/.jpg">
 
 # The buildup of the GMOs we see today 
 Now you can trace genetically modified organisms back to the discovery of genes. Gregory Mendel began the first recorded genetic test of any kind back in the 1860s. Mendel is known for his discovery with peas. He found that by crossing different kinds of garden peas. Following Mendel were some other important times, and figures, in genetics. 
