@@ -1,9 +1,8 @@
 ## What are GMOs?
 ```
 The topic for this blog is going to be about the specifics of what GMOs are. 
-Hopefully this clarifies what GMOs are, how they came about, how they are made, 
-and a general history of them. 
-
+Hopefully this clarifies what GMOs are, how they came about, how they are 
+made, and a general history of them. 
 To understand what GMOs are, one must know what GMO means. 
 GMO stands for genetically modified organisms.
 ```
@@ -24,7 +23,7 @@ Now you can trace genetically modified organisms back to the discovery of genes.
 # Today
 Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog, I will discuss the science behind how they create GMOs. 
 
-You can use the [editor on GitHub](https://github.com/wdeaton/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Contact Information](https://github.com/wdeaton/blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -55,7 +54,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wdeaton/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. 
