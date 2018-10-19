@@ -23,8 +23,8 @@ Now you can trace genetically modified organisms back to the discovery of genes.
 # Today
 Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog, I will discuss the science behind how they create GMOs. 
 ```
-[About](https://github.com/wdeaton/Gmos-Blog/blob/master/About%20Page.md) [Contact Info](https://github.com/wdeaton/Gmos-Blog/blob/master/Contact%20Information%20page.md)
+[About]() [Contact Info](https://github.com/wdeaton/Gmos-Blog/blob/master/Contact%20Information%20page.md)
 
 ```
 [Link](url) and ![Image](src)
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wdeaton/blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [About](https://github.com/wdeaton/Gmos-Blog/blob/master/About%20Page.md). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
