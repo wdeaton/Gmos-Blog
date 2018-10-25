@@ -30,7 +30,7 @@ Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced 
 
 ![GMO produce](https://github.com/wdeaton/Gmos-Blog/blob/master/produce%20pic.png)
 
-[Contact Information](https://github.com/wdeaton/Gmos-Blog/blob/master/Contact%20Information%20page.md)
+[Contact Information](https://wdeaton.github.io/Contact-Information/)
 
 [About](https://github.com/wdeaton/Gmos-Blog/blob/master/About%20Page.md).
 
