@@ -31,7 +31,7 @@ Now you can trace genetically modified organisms back to the discovery of genes.
 Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog, I will discuss the science behind how they create GMOs. 
 
 
-![GMO produce](https://github.com/wdeaton/Gmos-Blog/blob/master/produce%20pic.png)
+![produce pic](https://user-images.githubusercontent.com/43043543/47829323-df691f80-dd54-11e8-8ff4-3fe6b08d82e3.png)
 
 [Contact Information](https://wdeaton.github.io/Contact-Information/)
 
