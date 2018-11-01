@@ -25,7 +25,7 @@ Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced 
 
 ## Home Page 
 
-To go back to the home page click here![Home](https://wdeaton.github.io/GMO-Introduction/)
+To go back to the home page click here! [Home](https://wdeaton.github.io/GMO-Introduction/)
 
 ## Gmo Science
 
