@@ -13,7 +13,7 @@ to the bottom of the page.
 ## Gmo History
 For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals and crops they had, then they used those specific organisms in mating. This ideology of choosing the best animals, or crops, to propagate was the forefront for genetic modifications. It allowed man to choose what genes were in their propagation. This method was the beginning of gene selection and the idea behind all GMOs today. While people thousands of years ago used crops, animals, and time, today science and technology genetically modify organisms. I would also like to clarify one thing too; gene selection is not a GMO. Gene selection is when you breed for a specific gene or trait. GMOs use science to take a gene and insert that gene into a different organism. 
 
-![GmoCornPic](https://github.com/wdeaton/Gmos-Blog/blob/master/corn%20pic.jpg)
+![corn pic](https://user-images.githubusercontent.com/43043543/47829306-bfd1f700-dd54-11e8-9559-8fee414d2fd4.jpg)
 
 
 ## The buildup of the GMOs we see today 
