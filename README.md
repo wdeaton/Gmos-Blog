@@ -1,15 +1,5 @@
 # What are GMOs?
-```
-The topic for this blog is going to be about the specifics 
-of what GMOs are. Hopefully this clarifies what GMOs are, 
-how they came about, how they are made, and a general history
-of them. 
-To understand what GMOs are, one must know what GMO means. 
-GMO stands for genetically modified organisms.
 
-When you are ready to learn the science of GMOs please scroll 
-to the bottom of the page. 
-```
 ## Gmo History
 For thousands of years GMOs were in the minds of mankind, they just did not know it then. They started off small by selecting the best animals and crops they had, then they used those specific organisms in mating. This ideology of choosing the best animals, or crops, to propagate was the forefront for genetic modifications. It allowed man to choose what genes were in their propagation. This method was the beginning of gene selection and the idea behind all GMOs today. While people thousands of years ago used crops, animals, and time, today science and technology genetically modify organisms. I would also like to clarify one thing too; gene selection is not a GMO. Gene selection is when you breed for a specific gene or trait. GMOs use science to take a gene and insert that gene into a different organism. 
 
@@ -33,11 +23,9 @@ Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced 
 
 ![produce pic](https://user-images.githubusercontent.com/43043543/47829323-df691f80-dd54-11e8-8ff4-3fe6b08d82e3.png)
 
-[Contact Information](https://wdeaton.github.io/Contact-Information/)
+## Home Page
 
-[About](https://wdeaton.github.io/AboutPage/)
-
-[References](https://wdeaton.github.io/References/)
+To go back to the home page click here![Home](https://wdeaton.github.io/GMO-Introduction/)
 
 ## Gmo Science
 
