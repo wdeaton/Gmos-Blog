@@ -7,7 +7,7 @@ For thousands of years GMOs were in the minds of mankind, they just did not know
 
 
 ## The buildup of the GMOs we see today 
-Now you can trace genetically modified organisms back to the discovery of genes. Gregory Mendel began the first recorded genetic test of any kind back in the 1860s. Mendel is known for his discovery with peas. He found that by crossing different kinds of garden peas. Following Mendel were some other important times, and figures, in genetics. 
+Now you can trace genetically modified organisms back to the discovery of genes. Gregory Mendel began the first recorded genetic test of any kind back in the 1860s. Mendel is known for his discovery of genetics with garden peas. He found that by crossing different kinds of garden peas he was able to see different colors of flowers from the peas. Following Mendel were some other important times, and figures, in genetics. 
 - 1868 Friedrich Meisher discovered DNA, or deoxyribose nucleic acid. 
 - 1944 Oswald Avery identified DNA as the carrier of molecular information.
 - 1953 James Watson and Francis Crick discovered DNA to be in a double helix.
@@ -20,8 +20,9 @@ Now you can trace genetically modified organisms back to the discovery of genes.
 ## Today
 Today we can see 90% of the soy, cotton, canola, corn, and sugar beets produced in the US are genetically modified. Some of those modifications are to the improvement of the nutrients in the crops and some of the genetic modifications are their resistance to certain pesticides. They are also in the process of genetically modifying apples to brown slower, to almost not browning at all. They are working with pigs, tomatoes, and potatoes. In my next blog, I will discuss the science behind how they create GMOs. 
 
-
 ![produce pic](https://user-images.githubusercontent.com/43043543/47829323-df691f80-dd54-11e8-8ff4-3fe6b08d82e3.png)
+
+---
 
 ## Home Page 
 
