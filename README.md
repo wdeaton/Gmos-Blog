@@ -35,4 +35,8 @@ To view the next Blog about GMOs click here! [GMO Science](https://wdeaton.githu
 
 To view this Blog, click here! [GMO Examples](https://wdeaton.github.io/GMOExamples/)
 
+## Authors Note
+
+To view this Blog, click here! [Authors Opinoin](https://wdeaton.github.io/GMO-Opinion/)
+
 
